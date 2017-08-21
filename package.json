@@ -1,0 +1,11 @@
+{
+  "description": "tcp / ip framwork ",
+  "name": "cet",
+  "version": "0.0.1",
+  "main": "cet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "centercao",
+  "license": "MIT"
+}
